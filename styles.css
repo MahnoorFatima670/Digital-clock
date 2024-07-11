@@ -42,3 +42,17 @@ body {
     margin-right: 8px;
 }
 
+
+@media(max-width:1024px)
+{
+.container
+    {
+
+        margin:2rem 0;
+         display:flex;
+    justify-content:center;
+    align-items:center;
+    }
+
+}
+
