@@ -53,6 +53,13 @@ body {
     justify-content:center;
     align-items:center;
     }
+    .container1
+    {
+                 display:flex;
+    justify-content:center;
+    align-items:center;
+flex-direction:column;
+    }
 
 }
 
